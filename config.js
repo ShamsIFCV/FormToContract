@@ -7,7 +7,7 @@ const CONFIG = {
   webhookGetUrl: 'https://n8n-ou5ygldozq-od.a.run.app/webhook/form-data',
 
   // URL du webhook n8n pour soumettre le formulaire complété (POST)
-  webhookPostUrl: 'https://n8n-ou5ygldozq-od.a.run.app/webhook/submit-contract',
+  webhookPostUrl: 'https://n8n-ou5ygldozq-od.a.run.app/webhook/form-submit',
 
   // Clé d'API (optionnel, si vous sécurisez vos webhooks)
   apiKey: '',
